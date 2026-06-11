@@ -1,0 +1,17 @@
+Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+PyTorch saved models (optional: remove this if you want to push your .pth files)
+saved_models/
+*.pth
+
+Large Datasets (If by mistake)
+mnist_train.csv
+mnist_test.csv
+
+Virtual Environments (Altough written in google colab, but for future remainder.)
+venv/
+env/
+.env
